@@ -15,6 +15,6 @@ public class SimpleWebApp {
 
     @GetMapping("/")
     public String hello() {
-        return "Hello, World(안녕하세요!)";
+        return "Hello, World(안녕못하다)";
     }
 }
